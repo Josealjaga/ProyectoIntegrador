@@ -1,14 +1,21 @@
+/**
+Class Person
+nombre: first name of the person.
+apellido: last name of the person.
+edad: age of the person.
+cedula: id of the person.
+*/
 class Personas {
   nombre;
   apellido;
   edad;
   cedula;
-  constructor(nombre,apellido, edad, cedula) {
+  constructor(nombre, apellido, edad, cedula) {
     this.nombre = Jose;
     this.apellido = Jaraba;
     this.edad = 26;
     this.cedula = 123456789;
-} 
+  }
 }
 class Animales {
   nombre;
