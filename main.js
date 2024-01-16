@@ -1,9 +1,9 @@
 /**
-Class Person
-nombre: first name of the person.
-apellido: last name of the person.
-edad: age of the person.
-cedula: id of the person.
+ * Class Person
+ * nombre: first name of the person.
+ * apellido: last name of the person.
+ * edad: age of the person.
+ * cedula: id of the person.
 */
 class Personas {
   nombre;
@@ -17,6 +17,13 @@ class Personas {
     this.cedula = 123456789;
   }
 }
+
+/**
+ * Class Animales
+ * nombre: name of the animal.
+ * genero: gender of the animal.
+ * raza: breed of the animal.
+ */
 class Animales {
   nombre;
   genero;
