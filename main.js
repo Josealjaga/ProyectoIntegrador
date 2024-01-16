@@ -34,6 +34,13 @@ class Animales {
     this.raza = "Pastor Aleman";
   }
 }
+
+/**
+ * Class Veterinaria
+ * nombre: name of the stablishment.
+ * direccion: address of the stablishment.
+ * telefono: phone number of the stablishment.
+ */
 class Veterinaria {
   nombre;
   direccion;
