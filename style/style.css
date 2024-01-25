@@ -1,0 +1,65 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+body {
+  background-color: #04ADBF;
+  height: 100vh;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #F7C243;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+.target-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 10%;
+  
+}
+.container-animal {
+  width: 250px;
+  height: 300px;
+  background-color: #5C6578;
+  border-radius: 5%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: #011826;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  cursor: pointer;
+  margin: 10px;
+} 
+.container-persona {
+  width: 250px;
+  height: 300px;
+  background-color: #5C6578;
+  border-radius: 5%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: #011826;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  cursor: pointer;
+  margin: 10px;
+} 
+.container-veterinaria {
+  width: 250px;
+  height: 300px;
+  background-color: #5C6578;
+  border-radius: 5%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: #011826;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  cursor: pointer;
+  margin: 10px;
+} 
