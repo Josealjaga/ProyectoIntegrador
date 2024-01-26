@@ -22,7 +22,7 @@ class Persona {
 }
 
 const persona1 = new Persona("Jose", "Jaraba", 26, 123456789);
-console.log(persona1.printPersona());
+
 
 function showPersona() {
   let container = document.querySelector(".container-persona");

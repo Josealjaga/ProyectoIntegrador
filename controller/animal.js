@@ -19,7 +19,7 @@ class Animal {
 }
 
 const dog1 = new Animal("Firulais", "Macho", "Pitbull");
-console.log(dog1.printAnimal());
+
 
 function showAnimal() {
   let container = document.querySelector(".container-animal");

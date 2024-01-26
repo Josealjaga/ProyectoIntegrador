@@ -18,12 +18,7 @@ class Veterinaria {
   }
 }
 
-const veterinaria1 = new Veterinaria(
-  "Mi mascota feliz",
-  "Calle 123",
-  123456789
-);
-console.log(veterinaria1.printVeterinaria());
+const veterinaria1 = new Veterinaria("Mi mascota feliz","Calle 123",123456789);
 
 function showVeterinaria() {
   let container = document.querySelector(".container-veterinaria");
