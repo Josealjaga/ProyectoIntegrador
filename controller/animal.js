@@ -14,7 +14,7 @@ class Animal {
     this.raza = raza;
   }
   printAnimal() {
-    return `Animal  Nombre: ${this.nombre}, Genero: ${this.genero}, Raza: ${this.raza}`;
+    return `Animal - Nombre: ${this.nombre}, Genero: ${this.genero}, Raza: ${this.raza}`;
   }
 }
 
