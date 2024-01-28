@@ -14,7 +14,7 @@ class Veterinaria {
     this.telefono = telefono;
   }
   printVeterinaria() {
-    return `Veterinaria - Nombre: ${this.nombre}, Direccion: ${this.direccion}, Telefono: ${this.telefono}`;
+    return `<center><b>Veterinaria</b></center> <br><br> Nombre: ${this.nombre}<br> Direccion: ${this.direccion}<br> Telefono: ${this.telefono}`;
   }
 }
 

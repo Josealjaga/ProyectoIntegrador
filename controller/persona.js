@@ -17,12 +17,11 @@ class Persona {
     this.cedula = cedula;
   }
   printPersona() {
-    return `Persona - Nombre: ${this.nombre}, Apellido: ${this.apellido}, Edad: ${this.edad}, Cedula: ${this.cedula}`;
+    return `<center><b>Persona</b></center> <br><br> Nombre: ${this.nombre}<br> Apellido: ${this.apellido}<br> Edad: ${this.edad}<br> Cedula: ${this.cedula}`;
   }
 }
 
 const persona1 = new Persona("Jose", "Jaraba", 26, 123456789);
-
 
 function showPersona() {
   let container = document.querySelector(".container-persona");
