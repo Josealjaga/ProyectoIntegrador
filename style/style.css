@@ -22,8 +22,8 @@ h1 {
   
 }
 .container-animal {
-  width: 250px;
-  height: 300px;
+  width: 300px;
+  height: 350px;
   background-color: #5C6578;
   border-radius: 5%;
   display: flex;
@@ -36,8 +36,8 @@ h1 {
   margin: 10px;
 } 
 .container-persona {
-  width: 250px;
-  height: 300px;
+  width: 300px;
+  height: 350px;
   background-color: #5C6578;
   border-radius: 5%;
   display: flex;
@@ -50,8 +50,8 @@ h1 {
   margin: 10px;
 } 
 .container-veterinaria {
-  width: 250px;
-  height: 300px;
+  width: 300px;
+  height: 350px;
   background-color: #5C6578;
   border-radius: 5%;
   display: flex;
@@ -63,3 +63,4 @@ h1 {
   cursor: pointer;
   margin: 10px;
 } 
+
